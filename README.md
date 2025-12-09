@@ -6,7 +6,7 @@ Virtualization (VirtualBox)
 Skills
   Systems: Windows 10/11, Windows Server 2022
   Security: AD, GPO Hardening, Account Lockout, USB Blocking, Firewall
-  Networking: TCP/IP, DNS, DHCP, VLANs, Subnetting
+  Networking: TCP/IP, DNS, DHCP.
   Tools: VirtualBox, Wireshark, Packet Tracer
   Help Desk: Troubleshooting, account resets, documentation
 
